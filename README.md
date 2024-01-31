@@ -15,6 +15,4 @@ O projeto foi realizado em 2024 e representa os conhecimentos adquiridos, incorp
 
 ## Para ver funcionando
 
-~~~
 1. [Clique aqui](https://jhenyfferoliveira.github.io/html5-css3-womakerscode/).
-~~~
