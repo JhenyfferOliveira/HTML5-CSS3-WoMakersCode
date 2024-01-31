@@ -1,5 +1,5 @@
-﻿# Projeto de Conclusão do Curso de HTML5 e CSS3 da WoMakersCode
-
+﻿# Projeto Final do Curso de HTML5 e CSS3
+ 
 ## Site pessoal
 
 Código desenvolvido para criação de uma página, usando tags HTML e estilos CSS. O projeto visou cumprir os requisitos de HTML5 e CSS3, do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pela **Microsoft**.
