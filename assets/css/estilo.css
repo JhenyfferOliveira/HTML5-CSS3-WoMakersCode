@@ -111,9 +111,11 @@ p {
 }
 
 .section__titulo {
-    font-size: 22px;
+    font-size: 48px;
     font-weight: 400;
     margin: 16px 0;
+    font-family: 'Fira Code', monospace;
+    text-align: center;
 }
 
 .projeto {
