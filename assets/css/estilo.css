@@ -28,7 +28,7 @@ p {
 
 .header__link {
     text-decoration: none;
-    padding: 4px;
+    padding: 50px;
 }
 
 .header__link:hover {
@@ -40,15 +40,19 @@ p {
     background-color: rgba(78, 51, 187, 0.3);
 }
 
-/*Estilizando ícones de redes sociais/rodapé*/
+/*Estilizando ícones de redes sociais e rodapé*/
 .redes {
     width: 100%;
     display: block;
-    text-align: right;
+    text-align: center;
 }
 
-.icone{
-    width: 24px
+.icone__redes{
+    width: 60px;
+}
+
+.icone__rodape{
+    width: 24px;
 }
 
 .icone--texto {
