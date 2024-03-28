@@ -1,8 +1,6 @@
-﻿# Projeto Final do Curso de HTML5 e CSS3
- 
-## Site pessoal
+﻿# Site pessoal com HTML5 e CSS3
 
-Código desenvolvido para criação de uma página, usando tags HTML e estilos CSS. O projeto visou cumprir os requisitos de HTML5 e CSS3, do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pela **Microsoft**.
+Código desenvolvido para criação de uma página, usando tags HTML e estilos CSS. O projeto visou cumprir os requisitos de HTML5 e CSS3, do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
 
 O projeto foi realizado em 2024 e representa os conhecimentos adquiridos, incorporando as melhores práticas e técnicas. Conta com estrutura semântica de boa acessibilidade, com design adaptável para diversos dispositivos e com uma página real pelo GitHubPages.
 
