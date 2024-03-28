@@ -1,4 +1,4 @@
-﻿# Site pessoal com HTML5 e CSS3
+﻿# Site pessoal – HTML5 e CSS3
 
 Código desenvolvido para criação de uma página, usando tags HTML e estilos CSS. O projeto visou cumprir os requisitos de HTML5 e CSS3, do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
 
