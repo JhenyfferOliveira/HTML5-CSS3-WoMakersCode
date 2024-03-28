@@ -28,16 +28,12 @@ p {
 
 .header__link {
     text-decoration: none;
-    padding: 50px;
+    padding: 30px;
+    position: relative;
 }
 
 .header__link:hover {
     opacity: 50%;
-}
-
-.header__link:focus {
-    outline: none;
-    background-color: rgba(78, 51, 187, 0.3);
 }
 
 /*Estilizando ícones de redes sociais e rodapé*/
