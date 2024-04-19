@@ -1,8 +1,8 @@
 ﻿# Site Pessoal 
 
-Código desenvolvido para criação de uma página, usando tags HTML e estilos CSS. O projeto visou cumprir os requisitos de HTML5 e CSS3, do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
+Esse projeto foi desenvolvido para a criação de uma página web, usando tags HTML e estilo CSS. Ele representa os conhecimentos adquiridos, incorporando as melhores práticas e técnicas de desenvolvimento web, incluindo responsividade e acessibilidade. O projeto foi elaborado em janeiro de 2024.
 
-O projeto foi realizado em janeiro de 2024 e representa os conhecimentos adquiridos, incorporando as melhores práticas e técnicas de desenvolvimento web, incluindo responsividade e acessibilidade.
+Código desenvolvido para cumprir os requisitos de **HTML5 e CSS3** para o bootcamp **Back-end Python e Django** da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
 
 ---
 
